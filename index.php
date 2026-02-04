@@ -10,7 +10,7 @@
     <h1>Bienvenidos a la pagina principal</h1>
     <h2>Esta es la pagina principal del sitio web</h2>
     <a href="modulos.php">modulo de productos</a>
-    <a href="acerca de.php">acerca de</a>
+    <a href="acercade.php">acerca de</a>
 
 </body>
 </html>
