@@ -6,7 +6,15 @@
     <title>Login page</title>
 </head>
 <body>
-    <h1>Login</h1>
-    <h2>Aqui va el login JEJE</h2>
+    <h2>Login Page</h2>
+    <form action="index.php" method="POST">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required><br><br>
+        
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required><br><br>
+        
+        <input type="submit" value="Login">
+    </form>
 </body>
 </html>
